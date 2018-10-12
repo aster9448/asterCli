@@ -1,1 +1,1 @@
-<h1><% out.println(¡°³­  JSP¡±); %></h1> 
+<h1><% out.println(¡°JSP¡±); %></h1> 
